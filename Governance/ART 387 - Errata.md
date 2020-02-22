@@ -4,11 +4,15 @@ This document contains a summary of all agreements made about course procedures 
 
 ## "Green Monster" errata
 
+### Scale
+
+For purposes of this course, relative or realistic scale is irrelevant unless otherwise noted.
+
 ### Trade/negotiation
 
 #### Materials "borrowing"
 
-"Borrowing" (see the [Materials Schedule](https://github.com/allegheny-college-art-387-spring-2020/course-materials/blob/master/Governance/ART%20387%20-%20Materials%20Schedule.pdf)) may not be done int he following circumstances:
+"Borrowing" (see the [Materials Schedule](https://github.com/allegheny-college-art-387-spring-2020/course-materials/blob/master/Governance/ART%20387%20-%20Materials%20Schedule.pdf)) may not be done in the following circumstances:
 
 * In anticipation of a project (i.e. only during assignments, not before)
 * On behalf of their full group without group approval
