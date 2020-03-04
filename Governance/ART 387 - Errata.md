@@ -29,3 +29,7 @@ Student may negotiate and trade selected sites after all sites for a project hav
 ### Cardinal directions
 
 For the purposes of this course, when referencing cardinal directions for the course building board, we take "north" to mean the direction facing the exit sign at the end of the second floor atrium hallway. Additioanl cardinal directions derive from this understanding.
+
+### Time, space, gravity, spacetime
+
+If a building falls over of its own accord (i.e. due to gravitational pull on the structure), it may not be repaired unless otherwise noted.
